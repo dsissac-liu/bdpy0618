@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e68778b9-9674-4d65-99d8-d37acd348f74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BDPY27.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo0_hello_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo10_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo11_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo12_tuple1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo13_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo14_string2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo15_string3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo16_list1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo17_string_formatter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo18_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo19_formatter2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1_ide1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo20_formatter3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo21_formatter4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo22_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo23_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo24_list_copy2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo25_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo26_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo27_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo28_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo29_set1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo2_ide2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo30_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo31_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo3_divide.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo4_round.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo5_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo6_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo7_airthmatic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo8_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo9_complex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,20 +85,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo31_dict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            <state relative-caret-position="361">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo23_.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="1" selection-start-column="1" selection-end-column="1" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -147,6 +116,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Issac" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -187,6 +161,7 @@
         <option value="$PROJECT_DIR$/demo29_set1.py" />
         <option value="$PROJECT_DIR$/demo30_set.py" />
         <option value="$PROJECT_DIR$/demo31_dict.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -363,22 +338,45 @@
       <option name="presentableId" value="Default" />
       <updated>1560740795035</updated>
     </task>
+    <task id="LOCAL-00001" summary="Git practice">
+      <created>1560829052151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560829052151</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Git practice">
+      <created>1560829790296</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560829790296</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Git practice&#10;prac2">
+      <created>1560829876722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560829876722</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11064278" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11064278" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2426869" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2426869" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3785558" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32936078" />
@@ -386,6 +384,37 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Git practice" />
+    <MESSAGE value="Git practice&#10;prac2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git practice&#10;prac2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions">
@@ -610,8 +639,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo31_dict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        <state relative-caret-position="361">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="1" selection-start-column="1" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
