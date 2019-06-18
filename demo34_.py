@@ -1,5 +1,6 @@
 def sample_variable_arguments(fix1, fix2, *args):
     print "fix part1=%s, part2=%s" % (str(fix1), str(fix2))
+
     for p in args:
         print p
 
