@@ -5,9 +5,9 @@ print sales['iphoneXS'], sales['iphone8']
 print sales.get('iphoneXR'), sales.get('iphoneXS')
 sales['iphoneXR'] = 700
 print sales
-print 'watch4' in sales, 'iphone7' in sales ,'adfasdf' not in sales
+print 'watch4' in sales, 'iphone7' in sales, 'adfasdf' not in sales
 for x in sales:
-    print x,sales[x]
+    print x, sales[x]
 
 for x in sales.keys():
     print x, sales.get(x)
@@ -16,10 +16,12 @@ for y in sales.values():
     print y,
 print "\n"
 
-for z  in sales.items():
-    print type(z),z[0],z[1]
+for z in sales.items():
+    print type(z), z[0], z[1]
 
-sales.update({'ipad':300,'iphone7':1800})
-sales['iphoneXR'] = 999999999999999999
-for p,q in sales.items():
-    print p,q
+sales.update({'ipad': 300, 'iphone7': 1800})
+sales['iphoneXR'] = 99999999999999999933333
+sales['iphoneXR'] = 99999999999999999933333
+sales['iphoneXR'] = 99999999999999999933333
+for p, q in sales.items():
+    print p, q
