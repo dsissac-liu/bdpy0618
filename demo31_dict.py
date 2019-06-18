@@ -20,8 +20,6 @@ for z in sales.items():
     print type(z), z[0], z[1]
 
 sales.update({'ipad': 300, 'iphone7': 1800})
-sales['iphoneXR'] = 99999999999999999933333
-sales['iphoneXR'] = 99999999999999999933333
-sales['iphoneXR'] = 99999999999999999933333
+sales['iphoneXR'] = 99999
 for p, q in sales.items():
     print p, q
