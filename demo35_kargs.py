@@ -11,3 +11,5 @@ sample_key_args('first sample', 'using key/value',
 myCourse = {'course': 'BDPY', 'duration': 35, 'instructor': 'MarkHo'}
 sample_key_args('second example', 'using dictionary',
                 **myCourse)
+mouse={'asdfasdf':'234124','':5656,
+       }
